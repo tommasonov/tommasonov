@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tommaso+Maggioni!;" />
 </h1>
-<h3 align="center">Test Engineer and Student at the University of Applied Science in Bern</h3>
+<h3 align="center">BI Developer</h3>
 
 
 <div align="center"> 
